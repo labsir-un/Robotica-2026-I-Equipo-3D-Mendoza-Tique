@@ -4,7 +4,7 @@
 > **Universidad Nacional de Colombia**
 > **Integrantes:** Duvan Tique — Luis Mendoza
 > **Repositorio:** https://github.com/labsir-un/Robotica-2026-I-Equipo-3D-Mendoza-Tique/tree/main/Laboratorio%20No.%2004%20-%20Rob%C3%B3tica%20de%20Desarrollo%20ROS%20Jazzy%20y%20Turtlesim
-> **Fecha de entrega:** según programación Moodle
+> 
 
 ---
 
