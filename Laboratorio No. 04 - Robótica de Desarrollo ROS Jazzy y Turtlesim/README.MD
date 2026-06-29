@@ -272,7 +272,6 @@ Visualiza gráficamente nodos, tópicos y conexiones entre publicadores y suscri
 rqt_graph
 ```
 
-> Ver captura en `evidencias/rqt_graph.png`
 
 ---
 
