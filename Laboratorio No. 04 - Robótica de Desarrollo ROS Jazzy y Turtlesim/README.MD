@@ -339,8 +339,7 @@ flowchart TD
 
 ### Video de demostración
 
-El screencast completo de la sesión se encuentra en:
-[`evidencias/Screencast from 2026-06-28 08-39-45.webm`](evidencias/Screencast%20from%202026-06-28%2008-39-45.webm)
+https://github.com/user-attachments/assets/c76646cc-5d95-4e45-98a9-e69736d118d0
 
 ---
 
