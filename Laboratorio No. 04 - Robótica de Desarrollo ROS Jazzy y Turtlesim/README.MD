@@ -314,23 +314,6 @@ flowchart TD
 
 ---
 
-## Evidencias
-
-### Capturas de pantalla
-
-![turtlesim corriendo](evidencias/Screenshot%20from%202026-06-28%2008-17-46.png)
-![nodo activo](evidencias/Screenshot%20from%202026-06-28%2008-18-22.png)
-![tópicos listados](evidencias/Screenshot%20from%202026-06-28%2008-19-08.png)
-![trayectoria automática](evidencias/Screenshot%20from%202026-06-28%2008-24-13.png)
-![letras dibujadas](evidencias/Screenshot%20from%202026-06-28%2008-25-07.png)
-![sistema líder-seguidor](evidencias/Screenshot%20from%202026-06-28%2008-33-45.png)
-
-### Video de demostración
-
-https://github.com/user-attachments/assets/c76646cc-5d95-4e45-98a9-e69736d118d0
-
----
-
 ## Referencias
 
 1. LabSIR UN. *Intro Linux - Ubuntu 24.04*. https://github.com/labsir-un/01_Rob_2026_I_Intro_Ubuntu_24.04.git
