@@ -314,6 +314,14 @@ flowchart TD
 
 ---
 
+## Video Presentación y Evidencia
+
+[![Ver video de presentación](https://img.shields.io/badge/▶%20Ver%20Video-Presentación%20Lab%2004-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/131Bm9h1WMv4n0-2Sa3CdRLNLkVb8eCuk/view?usp=sharing)
+
+> Video explicativo del laboratorio: análisis, desarrollo e implementación de la solución, arquitectura ROS 2 y conclusiones del equipo.
+
+---
+
 ## Referencias
 
 1. LabSIR UN. *Intro Linux - Ubuntu 24.04*. https://github.com/labsir-un/01_Rob_2026_I_Intro_Ubuntu_24.04.git
