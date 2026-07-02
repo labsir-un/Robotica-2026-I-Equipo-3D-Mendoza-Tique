@@ -234,45 +234,33 @@ twist.angular.z = ka * angle_error            # ka = follower_gain_ang
 
 ### `ros2 node list`
 Lista los nodos activos. Permite verificar que `/turtlesim` y `/turtle_controller` están corriendo.
-```
-/turtle_controller
-/turtlesim
-```
+
+![ros2 node list](evidencias/ros2%20node%20list.png)
 
 ### `ros2 topic list`
 Muestra todos los tópicos disponibles. Se identifican los canales de velocidad y pose de ambas tortugas.
-```
-/turtle1/cmd_vel
-/turtle1/pose
-/turtle2/cmd_vel
-/turtle2/pose
-```
+
+![ros2 topic list](evidencias/ros2%20topic%20list.png)
 
 ### `ros2 topic echo /turtle1/pose`
 Muestra en tiempo real la posición (x, y, theta) y velocidades de `turtle1`. Útil para depurar el seguidor.
-```bash
-ros2 topic echo /turtle1/pose
-```
+
+![ros2 topic echo](evidencias/ros2%20topic%20echo.png)
 
 ### `ros2 topic info /turtle1/cmd_vel`
 Muestra tipo de mensaje, número de publicadores y suscriptores. Confirma que solo `turtle_controller` publica en este tópico.
-```bash
-ros2 topic info /turtle1/cmd_vel
-```
+
+![ros2 topic info](evidencias/ros2%20topic%20info.png)
 
 ### `ros2 service list`
 Lista todos los servicios disponibles. Se identifican `/spawn`, `/clear`, `/turtle1/set_pen` y `/turtle1/teleport_absolute`.
-```bash
-ros2 service list
-```
+
+![ros2 service list](evidencias/ros2%20service%20list.png)
 
 ### `rqt_graph`
 Visualiza gráficamente nodos, tópicos y conexiones entre publicadores y suscriptores.
-```bash
-rqt_graph
-```
 
-> Ver captura en `evidencias/rqt_graph.png`
+![rqt_graph](evidencias/rqt%20graph.png)
 
 ---
 
