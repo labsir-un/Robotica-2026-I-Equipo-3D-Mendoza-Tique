@@ -470,8 +470,8 @@ Coreografía de 50 segundos sincronizada con "Pedro Pedro Pedro":
 
 | Video | Contenido | Enlace |
 |-------|-----------|--------|
-| Movimientos del robot | Movimiento individual, simultáneo, secuencial, enseñanza de poses y trazado de figuras | [Ver video](https://drive.google.com/file/d/REEMPLAZAR_CON_ID_MOVIMIENTOS/view?usp=sharing) |
-| Coreografía robótica | "Pedro Pedro Pedro" — 50 segundos sincronizados | [Ver video](https://drive.google.com/file/d/REEMPLAZAR_CON_ID_BAILE/view?usp=sharing) |
+| Movimientos del robot | Movimiento individual, simultáneo, secuencial, enseñanza de poses y trazado de figuras | [Ver video](https://drive.google.com/file/d/1F81ZkBj3x8zv6Wy_oGS6F4u6zDAmxoLS/view?usp=sharing) |
+| Coreografía robótica | "Pedro Pedro Pedro" — 50 segundos sincronizados | [Ver video](https://drive.google.com/file/d/1Van4lDI_V36msmntc8idwd-QjQ4_-91G/view?usp=sharing) |
 
 > **Nota:** Los videos inician con la introducción oficial del laboratorio LabSIR.
 
