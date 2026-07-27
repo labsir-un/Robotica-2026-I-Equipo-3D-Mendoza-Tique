@@ -11,9 +11,8 @@
 
 <h2>Profesores: <br>Pedro Fabián Cárdenas Herrera <br> Manuel Felipe Carranza Montenegro</h2>
 
-<h4>Nombre Integrante 1<br>
-    Nombre Integrante 2<br>
-    Nombre Integrante 3</h4>
+<h4>Luis Alberto Mendoza Rincón<br>
+    Duvan Stiven Tique</h4>
 
 <p>
   <img alt="Ubuntu 24.04 LTS" src="https://img.shields.io/badge/Ubuntu-24.04%20LTS-E95420?logo=ubuntu&logoColor=white">
@@ -52,49 +51,33 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 
 ## Integrantes del equipo
 
-### Integrante 1
+### Integrante 1 — Luis Alberto Mendoza Rincón
 <div align="center">
-  <img src="./assets/integrantes/integrante1.jpg" alt="Foto integrante 1" style="border-radius: 50%; width: 180px;"><br>
+  <img src="./assets/integrantes/integrante1.jpg" alt="Foto Luis Alberto Mendoza" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** Luis Alberto Mendoza Rincón
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
-- **Rol en el equipo:** Ej. Integración ROS 2, documentación, simulación
-- **Intereses:** Robótica móvil, visión artificial, automatización
+- **Correo institucional:** lmendozar@unal.edu.co
+- **Usuario de GitHub:** [lmendozar2001](https://github.com/lmendozar2001)
+- **Rol en el equipo:** Integración ROS 2, visión de máquina, planificación con MoveIt
+- **Intereses:** Robótica industrial, visión artificial, automatización de procesos
 - **Descripción breve:**  
-  Escribe aquí una breve presentación personal y académica del integrante.
+  Estudiante de Ingeniería Mecatrónica de la Universidad Nacional de Colombia. Interesado en la integración de sistemas robóticos con visión computacional y el desarrollo de celdas automatizadas de manufactura.
 
 ---
 
-### Integrante 2
+### Integrante 2 — Duvan Stiven Tique
 <div align="center">
-  <img src="./assets/integrantes/integrante2.jpg" alt="Foto integrante 2" style="border-radius: 50%; width: 180px;"><br>
+  <img src="./assets/integrantes/integrante2.jpg" alt="Foto Duvan Stiven Tique" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Nombre Apellido
+- **Nombre completo:** Duvan Stiven Tique
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
-- **Rol en el equipo:** Ej. Modelado, programación, control
-- **Intereses:** Manipulación, ROS 2, control de robots
+- **Correo institucional:** (pendiente)
+- **Usuario de GitHub:** [DuvanTique](https://github.com/DuvanTique)
+- **Rol en el equipo:** (pendiente)
+- **Intereses:** (pendiente)
 - **Descripción breve:**  
-  Escribe aquí una breve presentación personal y académica del integrante.
-
----
-
-### Integrante 3
-<div align="center">
-  <img src="./assets/integrantes/integrante3.jpg" alt="Foto integrante 3" style="border-radius: 50%; width: 180px;"><br>
-</div>
-
-- **Nombre completo:** Nombre Apellido
-- **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** nombre@unal.edu.co
-- **Usuario de GitHub:** [usuariogithub](https://github.com/usuariogithub)
-- **Rol en el equipo:** Ej. Documentación, pruebas, simulación
-- **Intereses:** Robótica industrial, sistemas autónomos, IA
-- **Descripción breve:**  
-  Escribe aquí una breve presentación personal y académica del integrante.
+  (Pendiente de completar)
 
