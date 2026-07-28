@@ -390,10 +390,12 @@ Con esos tres puntos, la instrucción `Pallet 1, Origin, PuntoX, PuntoY, 6, 5` c
 
 ### Simulación en EPSON RC+ 7.0
 
-<!-- Arrastra el archivo simulación.mp4 a un Issue de GitHub para obtener el link y reemplázalo aquí -->
-https://github.com/lmendozar2001/RoboticaLab3/blob/main/simulación.mp4
+[![Simulación EPSON](https://img.youtube.com/vi/Xo9egg_sEuo/0.jpg)](https://www.youtube.com/watch?v=Xo9egg_sEuo)
 
-### Robot real
+🔗 https://www.youtube.com/watch?v=Xo9egg_sEuo
 
-<!-- Arrastra el archivo "Video robot real.mp4" a un Issue de GitHub para obtener el link y reemplázalo aquí -->
-https://github.com/lmendozar2001/RoboticaLab3/blob/main/Video%20robot%20real.mp4
+### Robot real — Paletizado con robot EPSON T3-401S
+
+[![Video robot real](https://img.youtube.com/vi/vBmXD0nPjsc/0.jpg)](https://www.youtube.com/watch?v=vBmXD0nPjsc)
+
+🔗 https://www.youtube.com/watch?v=vBmXD0nPjsc
