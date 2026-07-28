@@ -67,12 +67,12 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 
 ---
 
-### Integrante 2 — Duvan Stiven Tique Ortiz
+### Integrante 2 — Duvan Stiven Tique
 <div align="center">
   <img src="./assets/integrantes/integrante2.jpg" alt="Foto Duvan Stiven Tique" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Duvan Stiven Tique Ortiz
+- **Nombre completo:** Duvan Stiven Tique
 - **Carrera:** Ingeniería Mecatrónica
 - **Correo institucional:** dtiqueo@unal.edu.co
 - **Usuario de GitHub:** [DuvanTique](https://github.com/DuvanTique)
