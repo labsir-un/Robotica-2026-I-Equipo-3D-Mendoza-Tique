@@ -67,17 +67,17 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 
 ---
 
-### Integrante 2 — Duvan Stiven Tique
+### Integrante 2 — Duvan Stiven Tique Ortiz
 <div align="center">
   <img src="./assets/integrantes/integrante2.jpg" alt="Foto Duvan Stiven Tique" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Duvan Stiven Tique
+- **Nombre completo:** Duvan Stiven Tique Ortiz
 - **Carrera:** Ingeniería Mecatrónica
-- **Correo institucional:** (pendiente)
+- **Correo institucional:** dtiqueo@unal.edu.co
 - **Usuario de GitHub:** [DuvanTique](https://github.com/DuvanTique)
-- **Rol en el equipo:** (pendiente)
-- **Intereses:** (pendiente)
+- **Rol en el equipo:** Modelado 3D, configuración MoveIt, control de actuadores y sistema de vacío
+- **Intereses:** Robótica de manipulación, diseño mecatrónico, control de sistemas embebidos
 - **Descripción breve:**  
-  (Pendiente de completar)
+  Estudiante de Ingeniería Mecatrónica de la Universidad Nacional de Colombia. Enfocado en el diseño y modelado de sistemas robóticos, integración de hardware y control de actuadores para aplicaciones de manipulación automatizada.
 
