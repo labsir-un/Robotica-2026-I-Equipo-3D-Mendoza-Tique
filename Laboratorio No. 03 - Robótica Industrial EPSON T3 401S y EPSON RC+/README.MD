@@ -382,7 +382,9 @@ Para definir el pallet se le enseñaron al robot tres puntos con el jog:
 
 Con esos tres puntos, la instrucción `Pallet 1, Origin, PuntoX, PuntoY, 6, 5` calcula automáticamente las coordenadas de las 30 posiciones.
 
-*(Ver imagen: `Punto de Paletizado.jpeg`)*
+*(Ver imagen:)*
+
+![Punto de Paletizado](Punto%20de%20Paletizado.jpeg)
 
 ---
 
