@@ -621,3 +621,11 @@ phantom_ws/src/
         ├── gui_node.py               # Interfaz gráfica Tkinter
         └── routine_manager.py        # Alternativa declarativa YAML
 ```
+
+---
+
+## Video de Demostración
+
+Video completo del sistema funcionando en simulación y robot real (pick & place con clasificación de figuras geométricas):
+
+🎥 [Ver video en Google Drive](https://drive.google.com/file/d/1GDtk2CfndklqoegfKm_4qSE93gW8hNvB/view?usp=sharing)
