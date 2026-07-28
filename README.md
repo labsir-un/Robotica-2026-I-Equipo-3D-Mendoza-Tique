@@ -11,7 +11,7 @@
 
 <h2>Profesores: <br>Pedro Fabián Cárdenas Herrera <br> Manuel Felipe Carranza Montenegro</h2>
 
-<h4>Luis Alberto Mendoza Rincón<br>
+<h4>Luis Alberto Mendoza Rojas<br>
     Duvan Stiven Tique</h4>
 
 <p>
@@ -51,12 +51,12 @@ Aquí se documentan los laboratorios, avances, resultados y la presentación de 
 
 ## Integrantes del equipo
 
-### Integrante 1 — Luis Alberto Mendoza Rincón
+### Integrante 1 — Luis Alberto Mendoza Rojas
 <div align="center">
   <img src="./assets/integrantes/integrante1.jpg" alt="Foto Luis Alberto Mendoza" style="border-radius: 50%; width: 180px;"><br>
 </div>
 
-- **Nombre completo:** Luis Alberto Mendoza Rincón
+- **Nombre completo:** Luis Alberto Mendoza Rojas
 - **Carrera:** Ingeniería Mecatrónica
 - **Correo institucional:** lmendozar@unal.edu.co
 - **Usuario de GitHub:** [lmendozar2001](https://github.com/lmendozar2001)
