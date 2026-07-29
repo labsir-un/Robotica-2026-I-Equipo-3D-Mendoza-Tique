@@ -4,6 +4,8 @@
 
 **Robótica Industrial 2026-I** | Universidad Nacional de Colombia
 
+🔗 **Repositorio original:** [DuvanTique/Robotica_2026_I_LAB_1](https://github.com/DuvanTique/Robotica_2026_I_LAB_1)
+
 ---
 
 ##  Integrantes

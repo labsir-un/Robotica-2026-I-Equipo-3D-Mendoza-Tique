@@ -5,6 +5,8 @@
 **Semestre:** 2026-I  
 **Integrantes:** Luis Alberto Mendoza Rojas — Duvan Stiven Tique
 
+🔗 **Repositorio original:** [lmendozar2001/InformeLaboratorio2RoboDK](https://github.com/lmendozar2001/InformeLaboratorio2RoboDK)
+
 ---
 
 ## Videos de Evidencia
