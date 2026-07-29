@@ -309,13 +309,11 @@ El plano de trabajo del area de operacion del robot Motoman MH6 se encuentra en 
 📄 **[Ver Plano de Trabajo (PDF)](PLANO%20DE%20TRABAJO.pdf)**
 ---
 
-## 11. Videos de Evidencia
 
-| Video | Descripción | Archivo |
-|-------|-------------|----------|
-| Simulación RoboDK | Ejecución de la trayectoria polar en simulación | [SIMULACION.mp4](SIMULACION.mp4) |
-| Robot Real | Ejecución física en el Motoman MH6 | [Trayectoria Real.mp4](Trayectoria%20Real.mp4) |
+## Visualización de Resultados y Videos
 
+* [Video de Simulación en RoboDK](https://drive.google.com/file/d/1yIWU5hbhEdyYTmu87mEXbJjnmFTXK-vE/view?usp=sharing)
+* [Video de la Trayectoria Real](https://drive.google.com/file/d/1vcbr-21bJV0XpfhTrjit9lN6acf1Ggzb/view?usp=sharing)
 ---
 
 ## 12. Código Fuente
